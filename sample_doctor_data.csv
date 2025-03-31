@@ -1,0 +1,16 @@
+doctor_id,doctor_name,specialty,avg_consultation_time,doctor_experience,is_available
+1,Arjun Patel,Dermatology,10,24,True
+2,Sanjay Singh,Orthopedics,15,5,True
+3,Kavita Patel,Pediatrics,9,19,True
+4,Vikram Sharma,Gynecology,15,3,True
+5,Neha Singh,Internal Medicine,18,20,True
+6,Aditya Gupta,ENT,11,23,True
+7,Arjun Menon,Ophthalmology,14,14,True
+8,Neha Malhotra,Neurology,19,1,True
+9,Rajesh Das,Psychiatry,22,23,True
+10,Vikram Rao,Cardiology,19,5,True
+11,Neha Das,Dermatology,15,4,True
+12,Ravi Joshi,Orthopedics,13,12,True
+13,Sunita Rao,Pediatrics,12,2,True
+14,Kavita Malhotra,Gynecology,19,4,True
+15,Amit Joshi,Internal Medicine,11,18,True
